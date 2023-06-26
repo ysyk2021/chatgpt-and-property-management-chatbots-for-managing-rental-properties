@@ -6,7 +6,7 @@ ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to 
 What is ChatGPT?
 ----------------
 
-ChatGPT is a chatbot developed by OpenAI that uses GPT-3, one of the most advanced NLP models available today. It can understand and respond to complex questions and requests, making it an ideal tool for customer service and support.
+ChatGPT is a chatbot developed by OpenAI that uses GPT-3.5, one of the most advanced NLP models available today. It can understand and respond to complex questions and requests, making it an ideal tool for customer service and support.
 
 Features and Capabilities of ChatGPT
 ------------------------------------
