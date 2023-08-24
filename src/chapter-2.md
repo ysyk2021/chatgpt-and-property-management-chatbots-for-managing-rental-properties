@@ -1,5 +1,3 @@
-Chapter 1: Basics of Property Management
-========================================
 
 In this chapter, we will explore the basics of property management. We will define property management and discuss different types of rental properties. Additionally, we will examine the importance of efficient property management for rental properties.
 

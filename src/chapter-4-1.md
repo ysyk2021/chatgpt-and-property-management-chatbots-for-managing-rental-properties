@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-==============================================================================================
 
 Artificial intelligence (AI) and chatbots are revolutionizing the way various industries operate, including property management. In this chapter, we will provide an introduction to AI and chatbots and how they can be used to improve property management.
 

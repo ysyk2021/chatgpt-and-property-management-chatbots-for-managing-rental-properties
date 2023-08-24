@@ -1,5 +1,3 @@
-Final thoughts on the importance of using ChatGPT for managing rental properties in property management
-===================================================================================================================
 
 In this book, we have explored the use of ChatGPT in property management for managing rental properties. We have discussed how ChatGPT can improve communication with tenants, streamline routine tasks, and provide 24/7 customer support.
 

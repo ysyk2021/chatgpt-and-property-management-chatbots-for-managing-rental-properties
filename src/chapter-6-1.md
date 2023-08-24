@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in property management
-=========================================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in property management. Following these steps can help ensure a successful implementation of the chatbot for managing rental properties.
 

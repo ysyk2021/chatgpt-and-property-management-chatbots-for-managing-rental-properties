@@ -1,5 +1,3 @@
-Chapter 6: Future of Property Management with ChatGPT
-=====================================================
 
 In this chapter, we explore the potential advancements in property management with ChatGPT. We also discuss emerging trends and challenges in property management and ChatGPT and conclude with a future outlook.
 

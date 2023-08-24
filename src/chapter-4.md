@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Property Management
-=============================================================
 
 In this chapter, we explore the role of artificial intelligence (AI) and chatbots in property management. We discuss how these technologies can improve property management operations and the benefits they offer for rental properties.
 

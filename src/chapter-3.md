@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Property Management
-============================================
 
 In this chapter, we will explore the challenges that property managers face in managing rental properties. We will discuss the factors affecting property management, common challenges, and the impact of these challenges on rental properties.
 

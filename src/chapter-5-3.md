@@ -1,5 +1,3 @@
-How ChatGPT can be used for managing rental properties
-========================================================================================
 
 Chatbots, like ChatGPT, are an emerging technology that can help property managers streamline their operations and improve communication with tenants. In this chapter, we will explore the various ways that ChatGPT can be used for managing rental properties.
 

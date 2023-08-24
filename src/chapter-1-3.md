@@ -1,5 +1,3 @@
-The Role of ChatGPT in Managing Rental Properties
-===============================================================
 
 In recent years, the use of chatbots and artificial intelligence (AI) technology has become increasingly prevalent in various industries, including property management. Property managers are using AI-powered chatbots like ChatGPT to streamline operations, improve tenant satisfaction levels, and gain a competitive advantage in a crowded marketplace.
 

@@ -1,5 +1,3 @@
-Impact of these challenges on rental properties
-=============================================================================================
 
 Property management can be a challenging field, with various obstacles that property managers must navigate to ensure the success of their rental properties. In this chapter, we will explore some of the most common challenges in property management and their impact on rental properties.
 

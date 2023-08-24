@@ -1,5 +1,3 @@
-Overview of the book
-==================================
 
 This book, "ChatGPT and Property Management: Chatbots for Managing Rental Properties", explores the use of chatbots in property management. Chatbots are computer programs that simulate human conversation through text or voice interactions. They can be programmed to respond to user inquiries, provide information, and perform various tasks.
 

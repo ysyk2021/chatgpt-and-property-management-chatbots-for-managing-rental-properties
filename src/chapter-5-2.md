@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful chatbot platform that can be used for managing rental properties. In this chapter, we will explore the various features and capabilities of ChatGPT and how they can be used in property management.
 

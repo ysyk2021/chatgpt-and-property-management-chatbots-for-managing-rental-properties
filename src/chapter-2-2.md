@@ -1,5 +1,3 @@
-Different types of rental properties
-==============================================================================
 
 Property management encompasses a wide range of rental properties, each with its own unique characteristics and challenges. In this chapter, we will explore the different types of rental properties that property managers may oversee.
 

@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to understand and respond to human queries. In this chapter, we will discuss what ChatGPT is, its features and capabilities, and how it can be used for managing rental properties.
 

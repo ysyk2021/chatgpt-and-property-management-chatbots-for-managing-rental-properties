@@ -1,5 +1,3 @@
-Importance of efficient management for rental properties
-==================================================================================================
 
 Effective property management is essential to the success of rental properties. In this chapter, we will explore the basics of property management and the importance of efficient management for rental properties.
 

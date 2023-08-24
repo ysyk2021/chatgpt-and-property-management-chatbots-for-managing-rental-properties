@@ -1,5 +1,3 @@
-How AI and chatbots can improve property management
-==================================================================================================================
 
 The use of artificial intelligence (AI) and chatbots has become increasingly popular in various industries, including property management. In this chapter, we will explore the role of AI and chatbots in property management and how they can improve various aspects of property management.
 

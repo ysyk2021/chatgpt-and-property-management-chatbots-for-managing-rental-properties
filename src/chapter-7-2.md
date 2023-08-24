@@ -1,5 +1,3 @@
-Emerging trends and challenges in property management and ChatGPT
-========================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges in property management and ChatGPT. As technology continues to evolve, new trends and challenges are emerging that will shape the future of property management with ChatGPT.
 

@@ -1,5 +1,3 @@
-Summary of key points
-=================================
 
 In this book, we have explored the use of ChatGPT in property management for managing rental properties. We discussed the benefits of using ChatGPT for communication with tenants, streamlining routine tasks, and providing 24/7 customer support.
 

@@ -1,5 +1,3 @@
-Factors affecting property management
-===================================================================================
 
 Property management can be a complex and challenging field, with various factors that can impact its success. In this chapter, we will explore some of the key factors that affect property management and how they can impact rental properties.
 

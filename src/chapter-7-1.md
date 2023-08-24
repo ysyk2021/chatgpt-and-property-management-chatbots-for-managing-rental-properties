@@ -1,5 +1,3 @@
-Potential Advancements in Property Management with ChatGPT
-=================================================================================================================
 
 The future of property management with ChatGPT is exciting. In this chapter, we explore potential advancements in property management that can be achieved with the help of ChatGPT.
 

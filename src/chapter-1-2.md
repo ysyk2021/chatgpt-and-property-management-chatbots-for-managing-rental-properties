@@ -1,5 +1,3 @@
-Explanation of property management and its importance
-===================================================================
 
 Property management refers to the process of overseeing and managing real estate properties, such as apartments, houses, and commercial buildings, on behalf of property owners. The goal of property management is to maintain and enhance the value of the property while generating income for the owner.
 

@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in rental property management
-======================================================================================================================
 
 In this chapter, we will discuss some best practices for using ChatGPT in rental property management. These practices can help ensure that the chatbot is effective in managing rental properties and providing satisfactory customer service to tenants.
 

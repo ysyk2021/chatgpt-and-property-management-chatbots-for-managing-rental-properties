@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Property Management
-======================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in property management, best practices for using ChatGPT in rental property management, and case studies of property management companies that have successfully implemented ChatGPT in their business.
 
