@@ -6,3 +6,7 @@ This book, "ChatGPT and Property Management: Chatbots for Managing Rental Proper
 Whether you are a property manager looking to streamline your operations or a tenant interested in the latest technology for managing rental properties, this book has something for everyone. By embracing emerging technologies like chatbots and ChatGPT, property managers can create personalized and immersive storylines that keep users coming back for more, leading to cost savings, increased tenant satisfaction, and ultimately, success in the competitive real estate market.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
