@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting Property Management
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that can significantly impact property management. These factors encompass both internal and external elements that influence the overall success of managing rental properties. Understanding and effectively navigating these factors is essential for property managers to ensure smooth operations and tenant satisfaction. Let's delve into the factors affecting property management.
 

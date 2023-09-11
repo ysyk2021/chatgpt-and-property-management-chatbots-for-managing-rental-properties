@@ -1,5 +1,4 @@
-Chapter 4: Case Studies of Property Management Companies using ChatGPT
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of property management companies that have successfully implemented ChatGPT in their business operations. These case studies highlight the practical applications and benefits of ChatGPT in managing rental properties. Let's examine how these companies have leveraged this technology to improve tenant experiences and streamline their property management processes.
 

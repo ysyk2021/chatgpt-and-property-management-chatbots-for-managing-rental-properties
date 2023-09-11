@@ -1,5 +1,4 @@
-Chapter 6: Common Challenges Faced by Property Managers
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that property managers encounter in their day-to-day operations. These challenges can arise from various aspects of managing rental properties and can impact efficiency, tenant satisfaction, and overall success. Let's delve into the challenges faced by property managers.
 

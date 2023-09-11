@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Rental Property Management
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for using ChatGPT in the context of rental property management. ChatGPT offers significant potential for streamlining communication and enhancing tenant experiences in property management. However, it is important to adopt these best practices to ensure effective and efficient utilization of the technology. Let's explore the key recommendations.
 

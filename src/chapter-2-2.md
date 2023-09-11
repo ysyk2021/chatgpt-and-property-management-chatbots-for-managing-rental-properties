@@ -1,5 +1,4 @@
-Chapter 2: Different Types of Rental Properties
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of rental properties that exist in the real estate market. Each type of rental property has its own unique characteristics, target tenant demographics, and investment considerations. Understanding these different types can help property managers and investors make informed decisions. Let's delve into the different categories of rental properties.
 

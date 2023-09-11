@@ -1,5 +1,4 @@
-Chapter 3: Steps to Implement ChatGPT in Property Management
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the essential steps to successfully implement ChatGPT in property management. These steps will guide property management companies in effectively integrating and utilizing ChatGPT to enhance tenant experiences and streamline their operations. Let's explore the key stages of implementing ChatGPT in property management.
 

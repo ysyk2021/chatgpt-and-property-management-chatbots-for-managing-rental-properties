@@ -1,5 +1,4 @@
-Chapter 1: How AI and Chatbots Can Improve Property Management
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various ways in which artificial intelligence (AI) and chatbots can revolutionize property management. These technologies offer significant improvements in efficiency, tenant experiences, and overall operational effectiveness. Let's delve into how AI and chatbots can enhance property management processes.
 

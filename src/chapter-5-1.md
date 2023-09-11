@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamentals of ChatGPT, an advanced language model powered by artificial intelligence. ChatGPT has revolutionized the way we interact with chatbots and has significant implications for managing rental properties. Let's dive into what ChatGPT is and how it works.
 

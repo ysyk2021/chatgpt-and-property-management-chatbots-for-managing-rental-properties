@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT can be Used for Managing Rental Properties
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, an advanced language model powered by artificial intelligence, can be utilized for managing rental properties. The integration of ChatGPT in property management processes can offer numerous benefits, including enhanced tenant communication, streamlined operations, and improved efficiency. Let's delve into the various ways ChatGPT can be used for managing rental properties.
 

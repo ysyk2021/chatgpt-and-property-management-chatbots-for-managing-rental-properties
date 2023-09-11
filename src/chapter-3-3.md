@@ -1,5 +1,4 @@
-Chapter 10: Impact of These Challenges on Rental Properties
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact that the challenges discussed earlier can have on rental properties. As property management integrates ChatGPT and faces emerging trends and obstacles, it is essential to understand how these factors can affect the rental property landscape. Let's delve into the potential impacts of these challenges.
 

@@ -1,5 +1,4 @@
-Chapter 2: Benefits of Using AI and Chatbots for Rental Properties
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that arise from utilizing artificial intelligence (AI) and chatbots in managing rental properties. These technologies offer property management companies and tenants a range of advantages, from improved operational efficiency to enhanced tenant experiences. Let's delve into the benefits of using AI and chatbots in the context of rental properties.
 

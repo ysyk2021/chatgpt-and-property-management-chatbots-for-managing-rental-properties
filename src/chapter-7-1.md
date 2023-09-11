@@ -1,5 +1,4 @@
-Chapter 7: Potential Advancements in Property Management with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that can be achieved in property management through the application of ChatGPT, an advanced language model powered by artificial intelligence. As technology continues to evolve, there are exciting possibilities for further enhancing property management processes and improving the tenant experience. Let's delve into some of the potential advancements that can be realized with ChatGPT.
 

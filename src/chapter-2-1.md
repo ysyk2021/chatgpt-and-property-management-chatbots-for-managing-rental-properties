@@ -1,5 +1,4 @@
-Chapter 4: Definition of Property Management
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define property management and explore its key components and responsibilities. Property management plays a vital role in effectively overseeing and maintaining rental properties, ensuring smooth operations and tenant satisfaction. Let's delve into the definition of property management and its associated elements.
 

@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an advanced language model powered by artificial intelligence. ChatGPT has revolutionized the field of natural language processing and offers a wide range of functionalities that make it a powerful tool for managing rental properties. Let's delve into the key features and capabilities of ChatGPT.
 

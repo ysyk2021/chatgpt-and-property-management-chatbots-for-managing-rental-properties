@@ -1,5 +1,4 @@
-Chapter 3: Importance of Efficient Management for Rental Properties
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of efficient management for rental properties. Effective property management practices are crucial for ensuring optimal performance, tenant satisfaction, and maximizing returns for property owners. Let's delve into the importance of efficient management in the context of rental properties.
 
